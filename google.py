@@ -1,3 +1,6 @@
+#Sebelum Menggunakannya install googlesearch.python
+#pip install googlesearch-python
+
 from googlesearch import search
 import webbrowser
 
