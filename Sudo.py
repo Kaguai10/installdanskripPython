@@ -1,5 +1,5 @@
 #install terlebih dahulu progressbar karena skrip ini juga menjalan ekstensi progresbar
-#pip install progressbar2 
+#pip install progressbar2  
 import time
 import progressbar
 import subprocess
