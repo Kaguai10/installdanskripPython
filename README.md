@@ -1,7 +1,7 @@
 <div align="center">
    <img src="https://readme-typing-svg.herokuapp.com?size=27&color=4584b6&center=true&vCenter=true&width=600&lines=Panduan+Instalasi+Python🐍;DiLinux,+Windows,+MacOS,+dan+Android">
 </div>
-Python adalah bahasa pemrograman yang populer dan mudah digunakan. Panduan ini menjelaskan langkah-langkah instalasi Python di berbagai platform: <strong>Linux</strong>, <strong>Windows</strong>, dan <strong>Android</strong>. Nah disini saya akan membagi gimana sih cara install python-nya kalian bisa melihat langsung di github saya atau mau langsung lihat di dokumentasi <a href=https://www.python.org/downloads/>python
+Python adalah bahasa pemrograman yang populer dan mudah digunakan. Panduan ini menjelaskan langkah-langkah instalasi Python di berbagai platform: <strong>Linux</strong>, <strong>Windows</strong>, <strong>MacOS</strong>, dan <strong>Android</strong>. Nah disini saya akan membagi gimana sih cara install python-nya kalian bisa melihat langsung di github saya atau mau langsung lihat di dokumentasi <a href=https://www.python.org/downloads/>python
 
 ---
 
