@@ -47,6 +47,38 @@ pip --version
 
 ---
 
+## 🍎 Instalasi Python di macOS
+
+### Opsi 1: Menggunakan Homebrew (Direkomendasikan)
+
+1. Instal Homebrew (jika belum ada):
+   ```bash
+   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   ```
+
+2. Instal Python:
+   ```bash
+   brew install python
+   ```
+
+3. Verifikasi instalasi:
+   ```bash
+   python3 --version
+   pip3 --version
+   ```
+
+### Opsi 2: Menggunakan Installer Resmi
+
+1. Buka https://www.python.org/downloads/mac-osx/
+2. Unduh dan jalankan installer `.pkg`.
+3. Ikuti panduan di layar.
+4. Verifikasi di Terminal:
+   ```bash
+   python3 --version
+   ```
+
+---
+
 ## 📱 Instalasi Python di Android (Menggunakan Pydroid 3)
 
 1. Buka **Google Play Store**.
