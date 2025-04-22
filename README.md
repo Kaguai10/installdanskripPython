@@ -1,4 +1,4 @@
-# 📦 Panduan Instalasi Python di Linux, Windows, dan Android
+# Panduan Instalasi Python di Linux, Windows, dan Android
 
 Python adalah bahasa pemrograman yang populer dan mudah digunakan. Panduan ini menjelaskan langkah-langkah instalasi Python di berbagai platform: **Linux**, **Windows**, dan **Android**.
 
@@ -69,15 +69,24 @@ pip --version
   source env/bin/activate  # Linux
   .\env\Scripts\activate   # Windows
   ```
+- Jika ada masalah dalam eksternal menejemen environment:
+  ```bash
+  pip install nama-library --break-system-packages
+  ```
+
 
 ---
 
-## 🚀 Siap Coding!
+## 🚀 Yuk Coding!
 
 Setelah Python terpasang, kamu bisa langsung mulai membuat program menggunakan editor favoritmu seperti:
 - Linux/Windows: VS Code, Sublime Text, PyCharm
 - Android: Pydroid 3 Editor bawaan
 
+sekarang kalian bisa mencoba skrip skrip diatas:
+   ```bash
+  git clone 
+  ```
 ---
 
 Semoga bermanfaat! 🐍✨
