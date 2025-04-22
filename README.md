@@ -1,6 +1,7 @@
-# Panduan Instalasi Python di Linux, Windows, dan Android
-
-Python adalah bahasa pemrograman yang populer dan mudah digunakan. Panduan ini menjelaskan langkah-langkah instalasi Python di berbagai platform: **Linux**, **Windows**, dan **Android**.
+<div align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?size=27&color=4584b6&center=true&vCenter=true&width=600&lines=Panduan+Instalasi+Python🐍;DiLinux,+Windows,+dan+Android✨">
+</div>
+Python adalah bahasa pemrograman yang populer dan mudah digunakan. Panduan ini menjelaskan langkah-langkah instalasi Python di berbagai platform: <strong>Linux</strong>, <strong>Windows</strong>, dan <strong>Android</strong>. Nah disini saya akan membagi gimana sih cara install python-nya kalian bisa melihat langsung di github saya atau mau langsung lihat di dokumentasi <a href=https://www.python.org/downloads/>python
 
 ---
 
@@ -85,8 +86,7 @@ Setelah Python terpasang, kamu bisa langsung mulai membuat program menggunakan e
 
 sekarang kalian bisa mencoba skrip skrip diatas:
    ```bash
-  git clone 
+  git clone https://github.com/Kaguai10/installdanskripPython
+  cd installdanskripPython
+  python3 namafile.py
   ```
----
-
-Semoga bermanfaat! 🐍✨
